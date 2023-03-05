@@ -20,6 +20,14 @@ b {
 u {
   font-family: 'arial', 'arial';
 }
+.signup {
+	background-color: white;
+	color: blue;
+}
+.login {
+	background-color: blue;
+	color: white;
+}
 .submit {
 	background-color: green;
 	color: white;
