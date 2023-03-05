@@ -1,2 +1,2 @@
 # WS
-Search a property or sell your own!
+Search a property or sell your own property!
