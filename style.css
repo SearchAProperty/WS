@@ -1,22 +1,33 @@
 @font-face
-font-family: 'arial';
-src: url(assets/font/arial.woff2);
+   font-family: 'arial';
+   src: url(assets/font/arial.woff2);
+}
+h1 {
+	font-family: 'arial', 'arial';
 }
 h2 {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
 }
 p {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
 }
 span {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
 }
 a {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
 }
 b {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
 }
 u {
-  font-family: 'arial', 'arial';
+	font-family: 'arial', 'arial';
+}
+.signup {
+	background-color: white;
+	color: blue;
+}
+.login {
+	background-color: blue;
+	color: white;
 }
