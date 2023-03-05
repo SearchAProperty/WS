@@ -20,6 +20,7 @@ b {
 u {
   font-family: 'arial', 'arial';
 }
-input.right {
-	float: right;
+.submit {
+	background-color: green;
+	color: white;
 }
