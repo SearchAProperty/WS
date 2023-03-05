@@ -1,0 +1,25 @@
+@font-face
+font-family: 'arial';
+src: url(assets/font/arial.woff2);
+}
+h2 {
+  font-family: 'arial', 'arial';
+}
+p {
+  font-family: 'arial', 'arial';
+}
+span {
+  font-family: 'arial', 'arial';
+}
+a {
+  font-family: 'arial', 'arial';
+}
+b {
+  font-family: 'arial', 'arial';
+}
+u {
+  font-family: 'arial', 'arial';
+}
+input.right {
+	float: right;
+}
